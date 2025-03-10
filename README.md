@@ -11,8 +11,12 @@ A web application that enables Picture-in-Picture (PiP) functionality, allowing 
  Demo
 
 ![image](https://github.com/user-attachments/assets/46c4577c-7eae-4331-a5d2-607282d739ac)
+choose which tab u want to see in picture in picture mode.
 ![image](https://github.com/user-attachments/assets/25dcfcbc-7b27-4968-b5ea-c693b6cbe33e)
+click on the Share button.
+come back to the picture in picture tab.
 then just click on start button.
+now you are free to use the functionality.
 
 
  Installation
